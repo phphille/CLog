@@ -2,7 +2,7 @@
     "name": "phpe/clog",
     "type": "library",
     "description": "Class for logging loading performance",
-    "keywords": ["html", "forms", "education"],
+    "keywords": ["logging", "debug"],
     "license": "MIT",
     "authors": [
         {
